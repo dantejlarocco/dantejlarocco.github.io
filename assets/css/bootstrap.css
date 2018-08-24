@@ -250,7 +250,7 @@ button,
 select,
 optgroup,
 textarea {
-  margin: 0;
+  margin: 15px;
   font-family: inherit;
   font-size: inherit;
   line-height: inherit;
@@ -2339,8 +2339,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+
 }
 
 .btn-primary:hover {
