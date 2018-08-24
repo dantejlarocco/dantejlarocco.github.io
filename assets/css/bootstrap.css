@@ -596,6 +596,11 @@ pre code {
   margin-left: -15px;
 }
 
+#navbar{
+  margin-top: -15px;
+  margin-bottom: -15px;
+}
+
 .no-gutters {
   margin-right: 0;
   margin-left: 0;
