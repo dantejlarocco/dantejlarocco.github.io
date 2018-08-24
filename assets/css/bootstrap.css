@@ -2342,6 +2342,31 @@ fieldset:disabled a.btn {
 
 }
 
+.btn-primary-dark-green {
+    color: #fff;
+    background-color: #006400;
+    border-color: #006400;
+}
+
+.btn-primary-less-dark-green{
+    color: #fff;
+    background-color: #008000;
+    border-color: #008000;
+}
+
+.btn-primary-even-less-dark-green{
+    color: #fff;
+    background-color: #009933;
+    border-color: #009933;
+}
+
+.btn-primary-forest-green{
+    color: #fff;
+    background-color: #228b22;
+    border-color: #228b22;
+}
+
+
 .btn-primary:hover {
   color: #fff;
   background-color: #0069d9;
@@ -9031,23 +9056,6 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
   
-  #dark-green{
-    color: #fff;
-    background-color: #006400;
-    border-color: #006400;
-  }
-  
-  #less-dark-green{
-    color: #fff;
-    background-color: #008000;
-    border-color: #008000;
-  }
-  
-  #even-less-dark-green{
-    color: #fff;
-    background-color: #009933;
-    border-color: #009933;
-  }
 }
 }
 /*# sourceMappingURL=bootstrap.css.map */
